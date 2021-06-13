@@ -20,10 +20,11 @@
 
 
 
-
 ![Snake animation](https://github.com/lucasgfelix/lucasgfelix/blob/output/github-contribution-grid-snake.svg)
+ 
+ ***
 <h3 align="left">🛠 Languages and tools:</h3>
-
+ 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![Angular](https://img.shields.io/badge/-Angular-BD002E?style=flat-square&logo=angular&logoColor=white)   ![Ionic](https://img.shields.io/badge/-Ionic-84AAF7?style=flat-square&logo=ionic&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-533B78?style=flat-square&logo=bootstrap&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasgfelix" alt="lucasgfelix" /> </p>
