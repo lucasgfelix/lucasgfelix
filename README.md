@@ -12,7 +12,7 @@
 
 ### **"🌍the new fascinates me!✨"**
 ***
-  ![Snake animation](https://github.com/lucasgfelix/lucasgfelix/blob/output/github-contribution-grid-snake.svg)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/lucasgfelix/lucasgfelix/github-contribution-grid-snake.svg)
   
 <h3 align="left">🛠 Languages and tools:</h3>
 
