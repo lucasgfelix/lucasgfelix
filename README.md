@@ -1,7 +1,7 @@
 ## Hi Friends ! 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas_Felix-a100ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-felix-140680203/)](//www.linkedin.com/in/lucas-felix-140680203/) [![Gmail Badge](https://img.shields.io/badge/-lucas.felix0012@gmail.com-a100ff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.felix0012@gmail.com)](:lucas.felix0012@gmail.com)
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623258622589.png" width="290px" />
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623258622589.png" width="280px" />
 
 - <p>My name is Lucas Felix 🙆‍♂️ :brazil: </p>
 - <p>📍 From São Paulo Capital</p>
@@ -14,8 +14,8 @@
 ***
  <div>
   <a href="https://github.com/lucasgfelix">
-  <img float="rigth" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgfelix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img float="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfelix&layout=compact&langs_count=16&theme=dracula"/>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgfelix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfelix&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 
