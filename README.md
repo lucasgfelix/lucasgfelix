@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623258622589.png" width="290px" />
 
-- <p>My name is Lucas Felix 🙆‍♂️:brazil: </p>
+- <p>My name is Lucas Felix 🙆‍♂️ :brazil: </p>
 - <p>📍 From São Paulo Capital</p>
 - <p>💻 I'm a dev Trainee and I've been working as a Front-End Developer since 2021.</p>
 - <p>💻 I am passionate about solving problems and learning. Always open to new challenges and ready to face change.</p>
