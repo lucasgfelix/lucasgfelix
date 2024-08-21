@@ -7,7 +7,6 @@
 - <p>📍 From São Paulo Capital</p>
 - <p>💻 I'm a dev Trainee and I've been working as a Front-End Developer since 2021.</p>
 - <p>💻 I am passionate about solving problems and learning. Always open to new challenges and ready to face change.</p>
-- <p>💻 Front-end software engineering intern at @Accenture Brasil</p>
 
 
 ### **"🌍the new fascinates me!✨"**
