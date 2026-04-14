@@ -11,14 +11,19 @@
 
 ---
 
-### 🚀 Sobre mim
-
+### 🚀 Sobre mim e Roadmap
 - 🏢 Atualmente atuo como **Analista de Sistemas** criando soluções automatizadas, integrações complexas (PHP, SQL) e aprimorando fluxos internos de negócio.
 - 📱 Fui **Engenheiro de Software na Accenture Brasil** por mais de 3 anos, construindo aplicativos Android Nativos focados em Clean Architecture, SOLID, e MVVM.
-- 💡 Possuo vivência sólida em desenvolvimento Front-end corporativo utilizando frameworks robustos como **Angular** e **React**.
-- 🎯 Apaixonado por transformar requisitos de negócio em código eficiente, modelagem de sistemas estruturada e CI/CD.
+- 💡 Possuo vivência sólida em desenvolvimento Front-end corporativo utilizando frameworks robustos como **Angular** e **JS Vanilla**.
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela São Paulo Tech School. 
-
+- 🎯 **[Roadmap Atualizado - 2026]:** Diante do meu background Nativo e Web, atualmente estou desenhando e executando um **Plano Pleno de Migração** para o ecossistema moderno do **React** e **React Native (Expo)**, com o objetivo de centralizar meu desenvolvimento cross-platform.
+---
+### 🌱 O que estou estudando agora (Estudo Ativo)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react-native&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+</p>
 ---
 
 ### 💻 Minhas Especialidades e Ferramentas
